@@ -1,0 +1,33 @@
+.Bruh {
+    color: #fff;
+    background-color: #00F7FF;
+    margin-top: 0px;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.Bruhh {
+    color: #fff;
+    background-color: #00F7FF;
+    margin-top: 0px;
+}
+
+* {
+    font-family: Comic sans ms;
+}
+
+.footer {
+    background-color: #00F7FF;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+
+    font-size: 15px
+}
+
+canvas {
+    box-shadow: 5px 5px 5px rgb(19, 18, 18);
+    border: 5px solid #fff;
+    border-radius: 20px;
+}
